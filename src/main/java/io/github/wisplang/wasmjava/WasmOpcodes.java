@@ -55,6 +55,9 @@ public final class WasmOpcodes {
 
 		LOCAL_GET = 0x20,
 		LOCAL_SET = 0x21,
+		/**
+		 * Local set &amp; get; essentially DUP &amp; STORE.
+		 * */
 		LOCAL_TEE = 0x22,
 		GLOBAL_GET = 0x23,
 		GLOBAL_SET = 0x24,
