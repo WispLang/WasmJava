@@ -1,4 +1,4 @@
-package dev.wisplang.wasmjava;// Created 2022-28-06T00:51:29
+package dev.wisplang.wisdom;// Created 2022-28-06T00:51:29
 
 /**
  * All opcodes for WASM.

@@ -6,6 +6,6 @@
  * @author KJP12
  * @since ${version}
  **/
-module dev.wisplang.wasmjava {
-	exports dev.wisplang.wasmjava;
+module dev.wisplang.wisdom {
+	exports dev.wisplang.wisdom;
 }

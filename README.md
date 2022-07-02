@@ -1,4 +1,4 @@
-# WASM Java
+# Wisdom
 
 Work in progress WASM assembler & interpreter library made in Java.
 
